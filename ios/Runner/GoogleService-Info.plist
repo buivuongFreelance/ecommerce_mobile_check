@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>732135778193-1pple42f5kdmd3qnv3m5cv7nl7196i83.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.732135778193-1pple42f5kdmd3qnv3m5cv7nl7196i83</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>732135778193-l1cqiq4nbh172i86jqckdv372tlvqgp6.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC9kpcDQsEw4CO7eVo1SuWNxzctFJoTW2g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>732135778193</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dingtoiinc.ios.dingtoipro</string>
+	<key>PROJECT_ID</key>
+	<string>login-dingtoi</string>
+	<key>STORAGE_BUCKET</key>
+	<string>login-dingtoi.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:732135778193:ios:8b35df3b51a97d1284dc30</string>
+	<key>DATABASE_URL</key>
+	<string>https://login-dingtoi.firebaseio.com</string>
+</dict>
+</plist>

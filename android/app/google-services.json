@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "732135778193",
+    "firebase_url": "https://login-dingtoi.firebaseio.com",
+    "project_id": "login-dingtoi",
+    "storage_bucket": "login-dingtoi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732135778193:android:8b58d0707ff56a6884dc30",
+        "android_client_info": {
+          "package_name": "com.dingtoi.dingtoipro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732135778193-v1urodcljmqr36ivvk9r62dnskev2dva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dingtoi.dingtoipro",
+            "certificate_hash": "eb8ba40caf181777b9fdaf5274a4725faffc9b37"
+          }
+        },
+        {
+          "client_id": "732135778193-nu6rgbujbljco1p8sa711dkfn0ii85ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPnAEQEte3vWllYxme27ECo-bX7fb7FF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732135778193-nu6rgbujbljco1p8sa711dkfn0ii85ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
