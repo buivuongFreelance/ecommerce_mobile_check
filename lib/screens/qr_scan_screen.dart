@@ -61,8 +61,7 @@ class _QrScanScreenState extends State<QrScanScreen> {
         Map objScan =
             await Functions.getObjectQrCodeDeviceAuth(result.rawContent);
         if (!objScan.containsKey('error')) {
-          String statusCheck =
-              await Device.checkQrCode(context);
+          String statusCheck = await Device.checkQrCode(context);
           if (statusCheck == ConfigCustom.isLocked) {
             Functions.confirmOkModel(context,
                 'You have no authoriation to scan this Qr Code', () {});

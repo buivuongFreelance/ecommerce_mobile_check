@@ -166,6 +166,7 @@ class _AskingProScreenState extends State<AskingProScreen> {
       });
       Functions.goToRoute(context, AskingUserScreen.routeName);
     } catch (error) {
+      print('error $error');
       setState(() {
         _isLoading = false;
       });
