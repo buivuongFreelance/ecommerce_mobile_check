@@ -16,7 +16,7 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:barcode_scan/barcode_scan.dart';
 import 'package:flutter/services.dart' show PlatformException;
-import 'package:shared_preferences/shared_preferences.dart';
+// import 'package:shared_preferences/shared_preferences.dart';
 
 import 'asking_pro_screen.dart';
 
@@ -31,7 +31,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
   bool isCheckQrCode = true;
 
   Future _checkAuth() async {
-    SharedPreferences prefs = await SharedPreferences.getInstance();
+    // SharedPreferences prefs = await SharedPreferences.getInstance();
     // await prefs.setString(ConfigCustom.transactionCodeLockScan,
     //     'a03b5820-9d8f-11eb-8143-0f4898fc0763');
 

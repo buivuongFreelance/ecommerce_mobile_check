@@ -653,7 +653,8 @@ class _ScannerConfirmScreenState extends State<ScannerConfirmScreen> {
                       isLoading: !isSave ? true : false,
                     )
                   : ButtonBottom(
-                      mode == ConfigCustom.transactionOwnerMode
+                      mode == ConfigCustom.transactionOwnerMode ||
+                              mode == ConfigCustom.deviceScanMode
                           ? 'Confirm'
                           : 'Compare Scan',
                       width,
